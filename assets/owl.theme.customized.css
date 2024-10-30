@@ -1,0 +1,58 @@
+.owl-theme .owl-nav [class*='owl-'] {
+	color: #4e5359 !important;
+	font-weight: bold !important;   
+}
+.owl-div-box-wrap {
+	border: 1px solid #eee;
+	margin-top:20px;
+}
+
+
+.owl-carousel .owl-stage {
+
+}
+
+.owl-carousel .owl-item { 
+    border: 1px dashed #efefef;    
+}
+.owl-carousel .owl-item img {
+    padding: 0;
+}
+
+.owl-prev, .owl-next {
+    position: absolute;	
+    border: 1px solid #4e5359;
+}
+.owl-next {
+    top: -60px;
+    right: -5%;
+}
+.owl-prev
+{
+	left: -5%;
+    top: -60px;	
+}
+
+
+.owl-div-box-wrap
+{
+
+}
+
+.owl-theme .owl-nav [class*='owl-']
+{
+	margin: 0;
+    padding: 4px;
+	
+}
+
+.owl-carousel {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.owl-theme .owl-nav {
+    position: relative;
+    margin-top: 0;
+}
+
